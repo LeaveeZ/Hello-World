@@ -1,5 +1,5 @@
 # Hello, World!
- First repository from Git and Github course.
+ First repository from a Git and Github course.
 
 Repository created during a live class.   
 
